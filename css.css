@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: blanchedalmond;
+}
+
+h1, h2 {
+    color:rgb(228, 6, 62);
+}
+
+h2, p {
+    margin-left: 10px;
+}
+
+p {
+    font-size: 18px;
+}
+
+object {
+    width: 250px;
+    height: 250px;
+}
+
+header {
+    text-align: center;
+    background-color: blanchedalmond;
+}
+
+main {
+    background-color: blanchedalmond;
+}
